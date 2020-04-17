@@ -1,0 +1,64 @@
+CNAE;Categoria;Rubro;Actividad;Valor;porc_actividad;porc_categoria
+A Agricultura, ganadería, silvicultura y pesca;VABpb Agricultura, ganadería, silvicultura y pesca (A, CNAE 2009);agricultura_ganadería_silvicultura_y_pesca;01 Agricultura, ganadería, caza y servicios relacionados con las mismas;29.925;92%;92%
+A Agricultura, ganadería, silvicultura y pesca;VABpb Agricultura, ganadería, silvicultura y pesca (A, CNAE 2009);agricultura_ganadería_silvicultura_y_pesca;02 Silvicultura y explotación forestal;995;3%;3%
+A Agricultura, ganadería, silvicultura y pesca;VABpb Agricultura, ganadería, silvicultura y pesca (A, CNAE 2009);agricultura_ganadería_silvicultura_y_pesca;03 Pesca y acuicultura;1.633;5%;5%
+B Industrias extractivas;VABpb Industria (B-E, CNAE 2009);industria;05-09 Industrias extractivas;2.049;100%;1%
+C Industria manufacturera;VABpb Industria (B-E, CNAE 2009);industria;10-12 Industrias de la alimentación, fabricación de bebidas e industria del tabaco;26.255;20%;15%
+C Industria manufacturera;VABpb Industria (B-E, CNAE 2009);industria;13-15 Industria textil, confección de prendas de vestir e industria del cuero y del calzado;9.249;7%;5%
+C Industria manufacturera;VABpb Industria (B-E, CNAE 2009);industria;"16 Industria de la madera y del corcho, excepto muebles; cestería y espartería";1.912;1%;1%
+C Industria manufacturera;VABpb Industria (B-E, CNAE 2009);industria;17 Industria del papel;3.773;3%;2%
+C Industria manufacturera;VABpb Industria (B-E, CNAE 2009);industria;18 Artes gráficas y reproducción de soportes grabados;2.203;2%;1%
+C Industria manufacturera;VABpb Industria (B-E, CNAE 2009);industria;19 Coquerías y refino de petróleo;3.506;3%;2%
+C Industria manufacturera;VABpb Industria (B-E, CNAE 2009);industria;20 Industria química;9.226;7%;5%
+C Industria manufacturera;VABpb Industria (B-E, CNAE 2009);industria;21 Fabricación de productos farmacéuticos;6.874;5%;4%
+C Industria manufacturera;VABpb Industria (B-E, CNAE 2009);industria;22 Fabricación de productos de caucho y plásticos;6.152;5%;4%
+C Industria manufacturera;VABpb Industria (B-E, CNAE 2009);industria;23 Fabricación de otros productos minerales no metálicos;5.616;4%;3%
+C Industria manufacturera;VABpb Industria (B-E, CNAE 2009);industria;"24 Metalurgia; fabricación de productos de hierro, acero y ferroaleaciones";6.875;5%;4%
+C Industria manufacturera;VABpb Industria (B-E, CNAE 2009);industria;25 Fabricación de productos metálicos, excepto maquinaria y equipo;11.387;9%;7%
+C Industria manufacturera;VABpb Industria (B-E, CNAE 2009);industria;26 Fabricación de productos informáticos, electrónicos y ópticos;1.637;1%;1%
+C Industria manufacturera;VABpb Industria (B-E, CNAE 2009);industria;27 Fabricación de material y equipo eléctrico;4.388;3%;3%
+C Industria manufacturera;VABpb Industria (B-E, CNAE 2009);industria;28 Fabricación de maquinaria y equipo n.c.o.p.;6.926;5%;4%
+C Industria manufacturera;VABpb Industria (B-E, CNAE 2009);industria;29 Fabricación de vehículos de motor, remolques y semirremolques;11.786;9%;7%
+C Industria manufacturera;VABpb Industria (B-E, CNAE 2009);industria;30 Fabricación de otro material de transporte;4.099;3%;2%
+C Industria manufacturera;VABpb Industria (B-E, CNAE 2009);industria;31-32 Fabricación de muebles, otras industrias manufactureras;4.358;3%;3%
+C Industria manufacturera;VABpb Industria (B-E, CNAE 2009);industria;33 Reparación e instalación de maquinaria y equipo;6.498;5%;4%
+D Suministro de energía eléctrica, gas, vapor y aire acondicionado;VABpb Industria (B-E, CNAE 2009);industria;35 Suministro de energía eléctrica, gas, vapor y aire acondicionado;24.412;100%;14%
+E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación;VABpb Industria (B-E, CNAE 2009);industria;36 Captación, depuración y distribución de agua;4.758;40%;3%
+E Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación;VABpb Industria (B-E, CNAE 2009);industria;37-39 Actividades de saneamiento, gestión de residuos y descontaminación;7.063;60%;4%
+F Construcción;VABpb Construcción (F, CNAE 2009);construccion;41-43 Construcción;63.187;100%;100%
+"G Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas";VABpb Servicios. Comercio, transporte y hostelería (G-I, CNAE 2009);comercio_transporte_hosteleria;45 Venta y reparación de vehículos de motor y motocicletas;17.477;13%;7%
+"G Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas";VABpb Servicios. Comercio, transporte y hostelería (G-I, CNAE 2009);comercio_transporte_hosteleria;46 Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas;64.075;47%;25%
+"G Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas";VABpb Servicios. Comercio, transporte y hostelería (G-I, CNAE 2009);comercio_transporte_hosteleria;47 Comercio al por menor, excepto de vehículos de motor y motocicletas;55.267;40%;22%
+H Transporte y almacenamiento;VABpb Servicios. Comercio, transporte y hostelería (G-I, CNAE 2009);comercio_transporte_hosteleria;49 Transporte terrestre y por tubería;24.161;49%;10%
+H Transporte y almacenamiento;VABpb Servicios. Comercio, transporte y hostelería (G-I, CNAE 2009);comercio_transporte_hosteleria;50 Transporte marítimo y por vías navegables interiores;753;2%;0%
+H Transporte y almacenamiento;VABpb Servicios. Comercio, transporte y hostelería (G-I, CNAE 2009);comercio_transporte_hosteleria;51 Transporte aéreo;2.747;6%;1%
+H Transporte y almacenamiento;VABpb Servicios. Comercio, transporte y hostelería (G-I, CNAE 2009);comercio_transporte_hosteleria;52 Almacenamiento y actividades anexas al transporte;18.947;39%;8%
+H Transporte y almacenamiento;VABpb Servicios. Comercio, transporte y hostelería (G-I, CNAE 2009);comercio_transporte_hosteleria;53 Actividades postales y de correos;2.290;5%;1%
+I Hostelería;VABpb Servicios. Comercio, transporte y hostelería (G-I, CNAE 2009);comercio_transporte_hosteleria;"55-56 Servicios de alojamiento; servicios de comida y bebida";66.631;100%;26%
+J Información y comunicaciones;VABpb Servicios. Información y comunicaciones (J, CNAE 2009);informacion_comunicaciones;58 Edición;2.577;7%;7%
+J Información y comunicaciones;VABpb Servicios. Información y comunicaciones (J, CNAE 2009);informacion_comunicaciones;"59-60 Actividades cinematográficas, de video y programas de televisión, grabación de sonido y edición musical; actividades de programación y emisión de radio y telivisión";5.314;14%;14%
+J Información y comunicaciones;VABpb Servicios. Información y comunicaciones (J, CNAE 2009);informacion_comunicaciones;61 Telecomunicaciones;14.703;38%;38%
+J Información y comunicaciones;VABpb Servicios. Información y comunicaciones (J, CNAE 2009);informacion_comunicaciones;"62-63 Programación, consultoría y otros actividades relacionadas con la informática; servicios de información";16.369;42%;42%
+K Actividades financieras y de seguros;VABpb Servicios. Actividades financieras y de seguros (K, CNAE 2009);financieras_y_seguros;64 Servicios financieros, excepto seguros y fondos de pensiones;28.607;71%;71%
+K Actividades financieras y de seguros;VABpb Servicios. Actividades financieras y de seguros (K, CNAE 2009);financieras_y_seguros;65 Seguros, reaseguros y fondos de pensiones, excepto Seguridad Social obligatoria;7.003;17%;17%
+K Actividades financieras y de seguros;VABpb Servicios. Actividades financieras y de seguros (K, CNAE 2009);financieras_y_seguros;66 Actividades auxiliares a los servicios financieros y a los seguros;4.472;11%;11%
+L Actividades inmobiliarias;VABpb Servicios. Actividades inmobiliarias (L, CNAE 2009);inmobiliarias;68a Actividades inmobiliarias, salvo alquiler imputado;121.624;100%;100%
+M Actividades profesionales, científicas y técnicas;VABpb Servicios. Actividades profesionales, científicas y técnicas y otras (M-N, CNAE 2009);profesionales_cientificas_tecnicas_otras;"69-70 Actividades jurídicas y de contabilidad; actividades de las sedes centrales; actividades de consultoría de gestión empresarial";21.225;44%;23%
+M Actividades profesionales, científicas y técnicas;VABpb Servicios. Actividades profesionales, científicas y técnicas y otras (M-N, CNAE 2009);profesionales_cientificas_tecnicas_otras;"71 Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos";11.229;23%;12%
+M Actividades profesionales, científicas y técnicas;VABpb Servicios. Actividades profesionales, científicas y técnicas y otras (M-N, CNAE 2009);profesionales_cientificas_tecnicas_otras;72 Investigación y desarrollo;5.229;11%;6%
+M Actividades profesionales, científicas y técnicas;VABpb Servicios. Actividades profesionales, científicas y técnicas y otras (M-N, CNAE 2009);profesionales_cientificas_tecnicas_otras;73 Publicidad y estudios de mercado;5.560;11%;6%
+M Actividades profesionales, científicas y técnicas;VABpb Servicios. Actividades profesionales, científicas y técnicas y otras (M-N, CNAE 2009);profesionales_cientificas_tecnicas_otras;"74-75 Otras actividades profesionales, científicas y técnicas; actividades veterinarias";5.245;11%;6%
+N Actividades administrativas y servicios auxiliares;VABpb Servicios. Actividades profesionales, científicas y técnicas y otras (M-N, CNAE 2009);profesionales_cientificas_tecnicas_otras;77 Actividades de alquiler;8.403;19%;9%
+N Actividades administrativas y servicios auxiliares;VABpb Servicios. Actividades profesionales, científicas y técnicas y otras (M-N, CNAE 2009);profesionales_cientificas_tecnicas_otras;78 Actividades relacionadas con el empleo;5.700;13%;6%
+N Actividades administrativas y servicios auxiliares;VABpb Servicios. Actividades profesionales, científicas y técnicas y otras (M-N, CNAE 2009);profesionales_cientificas_tecnicas_otras;79 Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos;3.459;8%;4%
+N Actividades administrativas y servicios auxiliares;VABpb Servicios. Actividades profesionales, científicas y técnicas y otras (M-N, CNAE 2009);profesionales_cientificas_tecnicas_otras;"80-82 Actividades de seguridad e investigación; servicios a edificios y actividades de jardinería; actividades administrativas de oficina y otras actividades auxiliares a ";26.112;60%;28%
+"O Administración Pública y defensa; Seguridad Social obligatoria";VABpb Servicios. Administración pública, educación y sanidad (O-Q, CNAE 2009);admin_publica_educacion_sanidad;"84 Administración Pública y defensa; Seguridad Social obligatoria";65.238;100%;34%
+P Educación;VABpb Servicios. Administración pública, educación y sanidad (O-Q, CNAE 2009);admin_publica_educacion_sanidad;85 Educación;55.144;100%;29%
+Q Actividades sanitarias y de servicios sociales;VABpb Servicios. Administración pública, educación y sanidad (O-Q, CNAE 2009);admin_publica_educacion_sanidad;86 Actividades sanitarias;53.928;78%;28%
+Q Actividades sanitarias y de servicios sociales;VABpb Servicios. Administración pública, educación y sanidad (O-Q, CNAE 2009);admin_publica_educacion_sanidad;87-88 Actividades de servicios sociales;15.180;22%;8%
+R Actividades artísticas, recreativas y de entretenimiento;VABpb Servicios. Actividades artísticas, recreativas y otros servicios (R-T, CNAE 2009);actividades_artisticas_recreativas_otrosservicios;"90-92 Actividades de creación, artísticas y de espectáculos; actividades  de bibliotecas, archivos, museos y otras actividades culturales; juegos de azar y apuestas";10.920;50%;21%
+R Actividades artísticas, recreativas y de entretenimiento;VABpb Servicios. Actividades artísticas, recreativas y otros servicios (R-T, CNAE 2009);actividades_artisticas_recreativas_otrosservicios;93 Actividades deportivas, recreativas y de entretenimiento;10.861;50%;21%
+S Otros servicios;VABpb Servicios. Actividades artísticas, recreativas y otros servicios (R-T, CNAE 2009);actividades_artisticas_recreativas_otrosservicios;94 Actividades asociativas;10.012;50%;19%
+S Otros servicios;VABpb Servicios. Actividades artísticas, recreativas y otros servicios (R-T, CNAE 2009);actividades_artisticas_recreativas_otrosservicios;95 Reparación de ordenadores, efectos personales y artículos de uso doméstico;1.245;6%;2%
+S Otros servicios;VABpb Servicios. Actividades artísticas, recreativas y otros servicios (R-T, CNAE 2009);actividades_artisticas_recreativas_otrosservicios;96 Otros servicios personales;8.855;44%;17%
+"T Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio";VABpb Servicios. Actividades artísticas, recreativas y otros servicios (R-T, CNAE 2009);actividades_artisticas_recreativas_otrosservicios;97-98 Actividades de los hogares como  empleadores de personal doméstico o como productores de bienes y servicios para uso propio;9.887;100%;19%
