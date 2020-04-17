@@ -11,6 +11,9 @@ import warnings
 warnings.filterwarnings('ignore')
 
 def trending_topic_search(topic):
+    '''
+    Función que permite extraer una tendencia de los ultimos 3 meses de Google Trends usando la api pytrends
+    '''
     
     data = pd.DataFrame()
 
@@ -23,6 +26,9 @@ def trending_topic_search(topic):
         data.transpose().plot()
         
 def trending_topic_search_long(topic):
+    '''
+    Función que permite extraer una tendencia de los ultimos 5 años de Google Trends usando la api pytrends
+    '''  
 
     data = pd.DataFrame()
 
