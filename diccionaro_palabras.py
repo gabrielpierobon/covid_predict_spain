@@ -45,7 +45,7 @@ def diccionario_palabras(print_palabras=False):
 
 		'inmobiliarias':{
 
-			'A':['inmobiliaria']
+			'A': ['inmobiliaria', 'alquiler', 'contrato', 'idealista']
 
 		},
 
@@ -57,13 +57,13 @@ def diccionario_palabras(print_palabras=False):
 
 		'agricultura_ganadería_silvicultura_y_pesca':{
 
-			'A':['agricultura']
+			'A':['agricultura', 'fruta', 'verdura', 'pescado']
 
 		},
 
 		'construccion':{
 
-			'A':['construccion', 'obras', 'terreno', 'revocamiento', 'pintura', 'instalacion', 'perforacion', 'tunel']
+			'A':['vivienda', 'reparacion', 'instalacion', 'construccion', 'reforma']
 
 		},
 
